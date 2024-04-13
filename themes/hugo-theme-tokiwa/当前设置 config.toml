@@ -1,0 +1,68 @@
+DefaultContentLanguage = "cn"
+baseURL = "https://news.ttti.cc/"
+title = "极限新闻"
+author = "南极神"
+copyright = "Copyright © 2008–2023"
+languageCode = "cn"
+hasCJKLanguage = true
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+disqusShortname = "extreme-1"
+# googleAnalytics = "UA-FAKE"
+useChineseFonts = true
+theme = "hugo-theme-tokiwa"
+
+[markup]
+[markup.highlight]
+style = "monokailight"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+bannerFont = "fonts/exampleFont"
+description = """
+偏听则暗，兼听则明
+"""
+favicon = "https://ttti.cc/favicon.ico"
+env = "production"
+fuse = true
+useChineseFonts = true
+postDateFormat = "2006-1-2"
+
+[menu]
+  [[menu.main]]
+    identifier = "post"
+    name = "全部"
+    url = "/post/"
+    weight = 1
+
+  [[menu.main]]
+    name = "标签"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    name = "分类"
+    url = "/categories/"  
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 4
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[social]
+home="https://ttti.cc"
+telegram="https://t.me/q8886"
+mail="mailto:xxzz@duck.com"
+weibo="https://weibo.com/nanjishen"
+# any icon in layouts/partials/svg can be used by the name without the "-line.svg"
+
+[outputs]
+home = ["HTML", "JSON"]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:4714/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 08 Oct 2022 00:08:10 +0800</lastBuildDate>
+    <atom:link href="http://localhost:4714/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我今天的心情</title>
+      <link>http://localhost:4714/post/news20221007/</link>
+      <pubDate>Sat, 08 Oct 2022 00:08:10 +0800</pubDate>
+      <guid>http://localhost:4714/post/news20221007/</guid>
+      <description>网飞版《城市猎人真人版》正式预告</description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>http://localhost:4714/about/</link>
+      <pubDate>Fri, 26 Jun 2020 16:43:36 +0800</pubDate>
+      <guid>http://localhost:4714/about/</guid>
+      <description>欢迎关注 微信公众号：geekplayers 微信视频号：极限玩家A 小红书：2623999419 抖音：geek_player 微博：geekplayer&#xA;联系方式： Email：njs.xyz@gmail.com QQ：81489060 Telegram More &amp;hellip; </description>
+    </item>
+  </channel>
+</rss>
