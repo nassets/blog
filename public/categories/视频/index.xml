@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>视频 on </title>
-    <link>http://localhost:4714/categories/%E8%A7%86%E9%A2%91/</link>
+    <link>http://localhost:6920/categories/%E8%A7%86%E9%A2%91/</link>
     <description>Recent content in 视频 on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Sat, 08 Oct 2022 00:08:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:4714/categories/%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:6920/categories/%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我今天的心情</title>
-      <link>http://localhost:4714/post/news20221007/</link>
+      <link>http://localhost:6920/post/news20221007/</link>
       <pubDate>Sat, 08 Oct 2022 00:08:10 +0800</pubDate>
-      <guid>http://localhost:4714/post/news20221007/</guid>
+      <guid>http://localhost:6920/post/news20221007/</guid>
       <description>网飞版《城市猎人真人版》正式预告</description>
     </item>
   </channel>
